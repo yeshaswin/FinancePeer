@@ -1,6 +1,6 @@
 # Installation guide
 
-git clone https://github.com/divanov11/refresh-token-interval
+
 
 #Setup Backend
 1. cd refresh-token-interval/backend
